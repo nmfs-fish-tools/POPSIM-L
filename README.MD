@@ -4,7 +4,7 @@
 
 **************
 
-https://nmfs-fish-tools.github.io/POPSIM-L/
+https://nmfs-fish-tools.github.io/POPSIM-L
 
 **************
 
